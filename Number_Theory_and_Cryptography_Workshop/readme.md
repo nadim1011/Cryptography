@@ -102,21 +102,23 @@ $$
 
 ## Day 1: GCD and Euclidean Algorithm
 
+I install NumPy 2.4.6, SciPy 1.16.3, Matplotlib 3.10.0 in google colab.
+
 ![Setup in colab](https://raw.githubusercontent.com/nadim1011/Cryptography/refs/heads/main/Number_Theory_and_Cryptography_Workshop/images/Screenshot%202026-11-14%20074612.png)
 
 Topics covered on Day 1:
 
 ### 1. Naive Algorithm
 
-*Code and implementation.*
+![Setup in colab](https://raw.githubusercontent.com/nadim1011/Cryptography/refs/heads/main/Number_Theory_and_Cryptography_Workshop/images/Screenshot%202026-11-14%20074612.png)
 
 ### 2. Euclid's Lemma
 
-*Concept and mathematical explanation.*
+![Setup in colab](https://raw.githubusercontent.com/nadim1011/Cryptography/refs/heads/main/Number_Theory_and_Cryptography_Workshop/images/Screenshot%202026-11-14%20080742.png)
 
 ### 3. Compact Code
 
-*Short and efficient implementation of the GCD algorithm.*
+![Setup in colab](https://raw.githubusercontent.com/nadim1011/Cryptography/refs/heads/main/Number_Theory_and_Cryptography_Workshop/images/Screenshot%202026-11-14%20081026.png)
 
 ---
 
