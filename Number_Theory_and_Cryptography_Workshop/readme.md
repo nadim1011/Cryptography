@@ -1,6 +1,7 @@
-# Introduction to Number Theory and Cryptography
+
 
 Md. Nadim Mahmud Borad
+
 IT23012
 ---
 
@@ -121,19 +122,4 @@ Topics covered on Day 1:
 ![Setup in colab](https://raw.githubusercontent.com/nadim1011/Cryptography/refs/heads/main/Number_Theory_and_Cryptography_Workshop/images/Screenshot%202026-11-14%20081026.png)
 
 ---
-
-## Workshop Progress
-
-| Day | Topics | Status |
-|---|---|---|
-| Day 0 | Divisibility, Division with Remainder, Congruence, Modular Arithmetic | Completed |
-| Day 1 | Naive Algorithm, Euclid's Lemma, Compact Code | In Progress |
-
----
-
-## About This Repository
-
-This repository contains my notes, learnings, and Python implementations from the Number Theory and Cryptography Workshop.
-
-**Goal:** Understand fundamental mathematical concepts and implement them using Python.
 
