@@ -111,7 +111,7 @@ Topics covered on Day 1:
 
 ### 1. Naive Algorithm
 
-![Setup in colab](https://raw.githubusercontent.com/nadim1011/Cryptography/refs/heads/main/Number_Theory_and_Cryptography_Workshop/images/Screenshot%202026-11-14%20074612.png)
+![Setup in colab](https://raw.githubusercontent.com/nadim1011/Cryptography/refs/heads/main/Number_Theory_and_Cryptography_Workshop/images/Screenshot%202026-11-14%20080253.png)
 
 ### 2. Euclid's Lemma
 
