@@ -1,7 +1,7 @@
 # Introduction to Number Theory and Cryptography
 
-My learning notes and Python implementations from the **Introduction to Number Theory and Cryptography Workshop**, organized by the [Maths and Physics Club, IIT Bombay](https://mnp-club.github.io/).
-
+Md. Nadim Mahmud Borad
+IT23012
 ---
 
 ## Day 0: Fundamentals of Number Theory
@@ -101,6 +101,8 @@ $$
 ---
 
 ## Day 1: GCD and Euclidean Algorithm
+
+![Setup in colab](https://raw.githubusercontent.com/nadim1011/Cryptography/refs/heads/main/Number_Theory_and_Cryptography_Workshop/images/Screenshot%202026-11-14%20074612.png)
 
 Topics covered on Day 1:
 
